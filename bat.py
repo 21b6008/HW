@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 print('hello')
 print('hi bat')
 =======
@@ -10,3 +11,6 @@ print("hello")
 
 print("kerberos")
 >>>>>>> b6dd31baf3eaeff236fa5362e46f73b8cd9195ed
+=======
+print("wajihah is doing github")
+>>>>>>> kerberos
