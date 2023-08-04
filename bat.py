@@ -1,3 +1,1 @@
-print("hello")
-
-print("kerberos")
+print("wajihah is doing github")
